@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Validação de Cartão de Crédito</title>
+</head>
+<body>
+    <h1>Validação de Cartão de Crédito</h1>
+    <form method="POST">
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome" required><br><br>
+
+        <label for="numero-cartao">Número do Cartão de Crédito:</label>
+        <input type="text" id="numero-cartao" name="numero-cartao" required><br><br>
+
+        <label for="vencimento">Data de Validade (MM/AA):</label>
+        <input type="text" id="vencimento" name="vencimento" pattern="(0[1-9]|1[0-2])\/[0-9]{2}" title="Digite uma data de vencimento válida no formato MM/AA" required><br><br>
+
+        <label for="cvv">CVV:</label>
+        <input type="text" id="cvv" name="cvv" title="Digite um CVV válido com 3 ou 4 dígitos" required><br><br>
+
+        <input type="submit" value="Validar Pagamento">
+    </form>
+
+    {% if mensagem %}
+    <div class="mensagem">
+        {{ mensagem }}
+    </div>
+    {% endif %}
+</body>
+</html>

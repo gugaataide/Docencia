@@ -1,0 +1,146 @@
+<table class="navbox" width="97%">
+<tbody><tr>
+<th colspan="12" style="padding:0.3em 0; line-height:1.2em; font-size:120%;"><div class="plainlinks hlist navbar" style="font-size:10px; float: right;"><ul><li class="nv-ver"><a href="/wiki/Predefini%C3%A7%C3%A3o:Aglomerados_urbanos_mais_populosos_do_Brasil" title="Predefinição:Aglomerados urbanos mais populosos do Brasil"><span title="Ver esta predefinição">ver</span></a></li><li class="nv-discutir"><a href="/wiki/Predefini%C3%A7%C3%A3o_Discuss%C3%A3o:Aglomerados_urbanos_mais_populosos_do_Brasil" title="Predefinição Discussão:Aglomerados urbanos mais populosos do Brasil"><span title="Discutir esta predefinição">discutir</span></a></li><li class="nv-editar"><a class="external text" href="https://pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Aglomerados_urbanos_mais_populosos_do_Brasil&amp;action=edit"><span title="Editar esta predefinição">editar</span></a></li></ul></div> <a href="/wiki/Concentra%C3%A7%C3%A3o_urbana" class="mw-redirect" title="Concentração urbana">Concentrações urbanas</a> mais populosas do <a class="mw-selflink selflink">Brasil</a> <br><style data-mw-deduplicate="TemplateStyles:r57040788">.mw-parser-output .nobold{font-weight:normal}</style><span class="nobold" style="font-size:80%"> <a href="/wiki/Censo_demogr%C3%A1fico_do_Brasil_de_2022" title="Censo demográfico do Brasil de 2022">Censo de 2022</a> do <a href="/wiki/Instituto_Brasileiro_de_Geografia_e_Estat%C3%ADstica" title="Instituto Brasileiro de Geografia e Estatística">Instituto Brasileiro de Geografia e Estatística</a> (IBGE)<sup id="cite_ref-concentrações_urbanas_200-3" class="reference"><a href="#cite_note-concentrações_urbanas-200"><span>[</span>196<span>]</span></a></sup><sup id="cite_ref-201" class="reference"><a href="#cite_note-201"><span>[</span>nota 2<span>]</span></a></sup> </span>
+</th></tr>
+<tr>
+<td rowspan="12" style="background-color:#ddddff; padding-left:7px; padding-right:7px;"><span class="mw-image-border" typeof="mw:File"><a href="/wiki/Ficheiro:Bairro_dos_jardins_em_s%C3%A3o_paulo.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bairro_dos_jardins_em_s%C3%A3o_paulo.jpg/140px-Bairro_dos_jardins_em_s%C3%A3o_paulo.jpg" decoding="async" width="140" height="79" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bairro_dos_jardins_em_s%C3%A3o_paulo.jpg/210px-Bairro_dos_jardins_em_s%C3%A3o_paulo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Bairro_dos_jardins_em_s%C3%A3o_paulo.jpg/280px-Bairro_dos_jardins_em_s%C3%A3o_paulo.jpg 2x" data-file-width="1422" data-file-height="800"></a></span><br><a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a><br><span class="mw-image-border" typeof="mw:File"><a href="/wiki/Ficheiro:Cidade_Maravilhosa.jpg" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/140px-Cidade_Maravilhosa.jpg" decoding="async" width="140" height="75" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/210px-Cidade_Maravilhosa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Cidade_Maravilhosa.jpg/280px-Cidade_Maravilhosa.jpg 2x" data-file-width="3648" data-file-height="1948"></a></span><br><a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a>
+</td></tr>
+<tr>
+<th><a href="/wiki/Lista_de_concentra%C3%A7%C3%B5es_urbanas_do_Brasil_por_popula%C3%A7%C3%A3o" title="Lista de concentrações urbanas do Brasil por população">Posição</a>
+</th>
+<th><a href="/wiki/Lista_de_cidades_do_Brasil" class="mw-redirect" title="Lista de cidades do Brasil">Localidade</a>
+</th>
+<th><a href="/wiki/Unidades_federativas_do_Brasil" title="Unidades federativas do Brasil">Unidade federativa</a>
+</th>
+<th>Pop.
+</th>
+<th>Posição
+</th>
+<th>Localidade
+</th>
+<th>Unidade federativa
+</th>
+<th>Pop.
+</th>
+<td rowspan="12" style="background-color:#ddddff; padding-left:7px; padding-right:7px;">
+</td></tr>
+<tr>
+<td align="center" style="background:#f0f0f0;">1</td>
+<td align="left"><b><a href="/wiki/S%C3%A3o_Paulo" title="São Paulo">São Paulo</a></b></td>
+<td align="left"><a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td style="text-align:right;">20&nbsp;684&nbsp;947</td>
+<td align="center" style="background:#f0f0f0;">11</td>
+<td align="left"><b><a href="/wiki/Campinas" title="Campinas">Campinas</a></b></td>
+<td align="left"><a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td style="text-align:right;">2&nbsp;092&nbsp;456
+</td></tr>
+<tr>
+<td align="center" style="background:#f0f0f0;">2</td>
+<td align="left"><b><a href="/wiki/Rio_de_Janeiro" title="Rio de Janeiro">Rio de Janeiro</a></b></td>
+<td align="left"><a href="/wiki/Rio_de_Janeiro_(estado)" title="Rio de Janeiro (estado)">Rio de Janeiro</a>
+</td>
+<td style="text-align:right;">11&nbsp;760&nbsp;789</td>
+<td align="center" style="background:#f0f0f0;">12</td>
+<td align="left"><b><a href="/wiki/Manaus" title="Manaus">Manaus</a></b></td>
+<td align="left"><a href="/wiki/Amazonas" title="Amazonas">Amazonas</a>
+</td>
+<td style="text-align:right;">2&nbsp;063&nbsp;547
+</td></tr>
+<tr>
+<td align="center" style="background:#f0f0f0;">3</td>
+<td align="left"><b><a href="/wiki/Belo_Horizonte" title="Belo Horizonte">Belo Horizonte</a></b></td>
+<td align="left"><a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>
+</td>
+<td style="text-align:right;">4&nbsp;963&nbsp;116</td>
+<td align="center" style="background:#f0f0f0;">13</td>
+<td align="left"><b><a href="/wiki/Bel%C3%A9m_(Par%C3%A1)" title="Belém (Pará)">Belém</a></b></td>
+<td align="left"><a href="/wiki/Par%C3%A1" title="Pará">Pará</a>
+</td>
+<td style="text-align:right;">1&nbsp;956&nbsp;249
+</td></tr>
+<tr>
+<td align="center" style="background:#f0f0f0;">4</td>
+<td align="left"><b><a href="/wiki/Bras%C3%ADlia" title="Brasília">Brasília</a></b></td>
+<td align="left"><a href="/wiki/Distrito_Federal_(Brasil)" title="Distrito Federal (Brasil)">Distrito Federal</a>
+</td>
+<td style="text-align:right;">3&nbsp;858&nbsp;028</td>
+<td align="center" style="background:#f0f0f0;">14</td>
+<td align="left"><b><a href="/wiki/Vit%C3%B3ria_(Esp%C3%ADrito_Santo)" title="Vitória (Espírito Santo)">Vitória</a></b></td>
+<td align="left"><a href="/wiki/Esp%C3%ADrito_Santo_(estado)" title="Espírito Santo (estado)">Espírito Santo</a>
+</td>
+<td style="text-align:right;">1&nbsp;756&nbsp;187
+</td></tr>
+<tr>
+<td align="center" style="background:#f0f0f0;">5</td>
+<td align="left"><b><a href="/wiki/Recife" title="Recife">Recife</a></b></td>
+<td align="left"><a href="/wiki/Pernambuco" title="Pernambuco">Pernambuco</a>
+</td>
+<td style="text-align:right;">3&nbsp;783&nbsp;101</td>
+<td align="center" style="background:#f0f0f0;">15</td>
+<td align="left"><b><a href="/wiki/Santos" title="Santos">Baixada Santista</a></b></td>
+<td align="left"><a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td style="text-align:right;">1&nbsp;672&nbsp;919
+</td></tr>
+<tr>
+<td align="center" style="background:#f0f0f0;">6</td>
+<td align="left"><b><a href="/wiki/Porto_Alegre" title="Porto Alegre">Porto Alegre</a></b></td>
+<td align="left"><a href="/wiki/Rio_Grande_do_Sul" title="Rio Grande do Sul">Rio Grande do Sul</a>
+</td>
+<td style="text-align:right;">3&nbsp;679&nbsp;095</td>
+<td align="center" style="background:#f0f0f0;">16</td>
+<td align="left"><b><a href="/wiki/S%C3%A3o_Jos%C3%A9_dos_Campos" title="São José dos Campos">São José dos Campos</a></b></td>
+<td align="left"><a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td style="text-align:right;">1&nbsp;590&nbsp;249
+</td></tr>
+<tr>
+<td align="center" style="background:#f0f0f0;">7</td>
+<td align="left"><b><a href="/wiki/Fortaleza" title="Fortaleza">Fortaleza</a></b></td>
+<td align="left"><a href="/wiki/Cear%C3%A1" title="Ceará">Ceará</a>
+</td>
+<td style="text-align:right;">3&nbsp;424&nbsp;141</td>
+<td align="center" style="background:#f0f0f0;">17</td>
+<td align="left"><b><a href="/wiki/S%C3%A3o_Lu%C3%ADs_(Maranh%C3%A3o)" title="São Luís (Maranhão)">São Luís</a></b></td>
+<td align="left"><a href="/wiki/Maranh%C3%A3o" title="Maranhão">Maranhão</a>
+</td>
+<td style="text-align:right;">1&nbsp;458&nbsp;836
+</td></tr>
+<tr>
+<td align="center" style="background:#f0f0f0;">8</td>
+<td align="left"><b><a href="/wiki/Curitiba" title="Curitiba">Curitiba</a></b></td>
+<td align="left"><a href="/wiki/Paran%C3%A1" title="Paraná">Paraná</a>
+</td>
+<td style="text-align:right;">3&nbsp;381&nbsp;333</td>
+<td align="center" style="background:#f0f0f0;">18</td>
+<td align="left"><b><a href="/wiki/Natal_(Rio_Grande_do_Norte)" title="Natal (Rio Grande do Norte)">Natal</a></b></td>
+<td align="left"><a href="/wiki/Rio_Grande_do_Norte" title="Rio Grande do Norte">Rio Grande do Norte</a>
+</td>
+<td style="text-align:right;">1&nbsp;263&nbsp;637
+</td></tr>
+<tr>
+<td align="center" style="background:#f0f0f0;">9</td>
+<td align="left"><b><a href="/wiki/Salvador" title="Salvador">Salvador</a></b></td>
+<td align="left"><a href="/wiki/Bahia" title="Bahia">Bahia</a>
+</td>
+<td style="text-align:right;">3&nbsp;318&nbsp;986</td>
+<td align="center" style="background:#f0f0f0;">19</td>
+<td align="left"><b><a href="/wiki/Macei%C3%B3" title="Maceió">Maceió</a></b></td>
+<td align="left"><a href="/wiki/Alagoas" title="Alagoas">Alagoas</a>
+</td>
+<td style="text-align:right;">1&nbsp;194&nbsp;596
+</td></tr>
+<tr>
+<td align="center" style="background:#f0f0f0;">10</td>
+<td align="left"><b><a href="/wiki/Goi%C3%A2nia" title="Goiânia">Goiânia</a></b></td>
+<td align="left"><a href="/wiki/Goi%C3%A1s" title="Goiás">Goiás</a>
+</td>
+<td style="text-align:right;">2&nbsp;480&nbsp;667</td>
+<td align="center" style="background:#f0f0f0;">20</td>
+<td align="left"><b><a href="/wiki/Florian%C3%B3polis" title="Florianópolis">Florianópolis</a></b></td>
+<td align="left"><a href="/wiki/Santa_Catarina" title="Santa Catarina">Santa Catarina</a>
+</td>
+<td style="text-align:right;">1&nbsp;183&nbsp;875
+</td></tr></tbody></table>
